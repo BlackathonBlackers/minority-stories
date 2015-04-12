@@ -7,7 +7,7 @@ In the project root, run the following command in the terminal:
 > $ curl -L http://rove.io/install | bash
 
 You will likely receive an error like `Failed to mount folders`. If so, run the
-following comment in the terminal:
+following command in the terminal:
 > $ vagrant plugin install vagrant-vbguest
 
 After the plugin is installed, `ssh` into the virtual machine:
