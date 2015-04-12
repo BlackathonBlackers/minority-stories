@@ -1,6 +1,8 @@
 # Minority Stories
 
 ## VM Setup
+[Download and install Vagrant](http://www.vagrantup.com/downloads.html)
+
 In the project root, run the following command in the terminal:
 > $ curl -L http://rove.io/install | bash
 
